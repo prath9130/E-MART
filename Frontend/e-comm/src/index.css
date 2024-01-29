@@ -1,0 +1,11 @@
+
+input{
+  outline: none;
+}
+body{
+
+  background-image: url('Component/Product_Component/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
